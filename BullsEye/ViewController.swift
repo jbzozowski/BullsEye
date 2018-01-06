@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-   //slider instance variable
+   //instance variables
     @IBOutlet weak var slider: UISlider!
     
     @IBOutlet weak var targetLabel: UILabel!
@@ -80,17 +80,15 @@ class ViewController: UIViewController {
         
         let title: String
         if difference == 0 {
-            title = "Perfect!"
+            title = "Home Run"
             points += 100
-        } else if difference < 5 {
-            title = "You almost had it!"
-            if difference == 1 {
+        } else if difference < 3 {
+            title = "Triple"
               points += 50
-            }
         } else if difference < 10 {
-            title = "Pretty good!"
+            title = "Double"
         } else {
-            title = "Not even close..."
+            title = "Single"
         }
         score += points
 
