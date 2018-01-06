@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         let thumbImageNormal = #imageLiteral(resourceName: "baseball")
         slider.setThumbImage(thumbImageNormal, for: .normal)
         
-        let thumbImageHighlighted = #imageLiteral(resourceName: "baseballHighlighted")
+        let thumbImageHighlighted = #imageLiteral(resourceName: "baseballHighlightedsmall")
         slider.setThumbImage(thumbImageHighlighted, for: .highlighted)
         
         let insets = UIEdgeInsets(top: 0, left: 14, bottom: 0, right: 14)

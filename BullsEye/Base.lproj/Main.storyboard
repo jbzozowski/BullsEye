@@ -102,6 +102,7 @@
                             <button opaque="NO" contentMode="scaleAspectFit" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pFJ-Fy-Tin">
                                 <rect key="frame" x="499" y="250" width="50" height="50"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <state key="normal" image="yankeescircle"/>
                                 <connections>
                                     <segue destination="fMd-aw-vnz" kind="presentation" modalTransitionStyle="flipHorizontal" id="Rwb-O7-2pK"/>
