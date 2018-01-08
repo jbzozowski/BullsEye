@@ -8,7 +8,8 @@ As a twist, I modified the original BullsEye UI graphics into a Baseball themed 
 
 Original UI
 
-![bullseye](https://user-images.githubusercontent.com/29587259/34697474-412d914e-f4a1-11e7-9853-c77bbb8b66f7.png)
+
+<img width="790" alt="bullseye" src="https://user-images.githubusercontent.com/29587259/34697589-c7a78b9e-f4a1-11e7-8c97-47ca0bd4f32b.png">
 
 
 Baseball UI
