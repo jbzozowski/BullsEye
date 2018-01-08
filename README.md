@@ -13,4 +13,4 @@ Original UI
 
 Baseball UI
 
-<img width="882" alt="screen shot 2018-01-08 at 6 16 26 pm" src="https://user-images.githubusercontent.com/29587259/34697282-63b08b64-f4a0-11e7-85b9-dc608dfcba36.png">
+<img width="790" alt="screen shot 2018-01-08 at 6 16 26 pm" src="https://user-images.githubusercontent.com/29587259/34697367-c9292d8e-f4a0-11e7-9a5b-35cf01d58946.png">
